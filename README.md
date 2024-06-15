@@ -1,5 +1,6 @@
 # Programming by python
-Welcome to the "Programming by python" repository! This repository is a collection of python scripts where you can find various examples and exercises to learn and improve your python scripting skills, I will put everything i have learned about python in this repository.
+Welcome to the "Programming by python" repository! This repository is a collection of python scripts where you can find various examples and exercises to learn and improve your python scripting skills, I will put everything i have learned about python in this repository,
+This time i will make a discription for my scripts but in the future you will see more scripts in different subjects.
 ## Description
 ### script 1: add_2_matrix.py
 Description: The code take the value of rows and the value of column then it makes to lists containing the number zero based on the number of rows and columns, The user enter the elements of matries it is the same number of rows and columns and the code swaping the elements of liats with the elements of matries then it add the elements and put it in the "result" list.
