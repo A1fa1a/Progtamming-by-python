@@ -1,5 +1,5 @@
 # Programming by python
-Welcome to the "Programming by python" repository! This repository is a collection of python scripts where you can find various examples and exercises to learn and improve your python scripting skills, I will put everything i have learned about python in this repository,
+Welcome to the "Programming by python" repository! This repository is a collection of python scripts where you can find various examples and exercises to learn and improve your python scripting skills,I will put here some of the things I learn in Python,
 This time i will make a discription for my scripts but in the future you will see more scripts on different subjects.
 ## Description
 ### script 1: add_2_matrix.py
@@ -19,7 +19,7 @@ Description: The "pyClass" folder contains Python code files that serve as learn
 ## Getting Started
 To get started, clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/A1fa1a/Progtamming-by-python.git
+git clone https://github.com/AbdulrhmanAnsary/Progtamming-by-python.git
 ```
 ## Usage
 Once you've cloned the repository, navigate to the directory and explore the scripts available. Each script is named descriptively to indicate its purpose or the concept it demonstrates.
